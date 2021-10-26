@@ -1,1 +1,1 @@
-https://bushnidze.github.io/todo/
+https://bushnidze.github.io/TODO/
