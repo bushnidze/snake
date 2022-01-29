@@ -1,1 +1,1 @@
-https://bushnidze.github.io/TODO/
+https://bushnidze.github.io/snake/
